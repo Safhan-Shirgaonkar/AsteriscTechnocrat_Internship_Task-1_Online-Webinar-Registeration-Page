@@ -1,0 +1,48 @@
+h2{
+    color: green;
+    text-align: center;
+    padding-top: 3%;
+}
+
+h3{
+    color: green;
+ 
+}
+marquee{
+    color:white;
+    background-color: green;
+    height: 30px;
+}
+img{
+   
+    
+    height: 600px;
+    width: 100%;
+}
+
+.btn btn-primary btn-lg{
+    padding-top: 5%;
+    width:50px;
+
+}
+
+.button{
+    padding-left: 20%;
+    padding-top: 20%;
+    padding-bottom: 25%;
+
+
+
+}
+.container {
+    display: grid;
+    padding-top: 10%;
+    grid-template-columns:  1fr 1fr;
+
+   }
+footer{
+    background-color: black;
+    color: white;
+}
+
+   

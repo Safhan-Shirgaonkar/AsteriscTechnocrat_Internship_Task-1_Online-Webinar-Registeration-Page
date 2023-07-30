@@ -1,0 +1,16 @@
+h1{
+    color:green;
+    text-align: center;
+    padding-top: 5%;
+}
+
+form {
+    padding-left: 606px;
+    padding-top: 90px;
+    width: 1200px;
+}
+marquee{
+    color:white;
+    background-color: green;
+    height: 30px;
+}
